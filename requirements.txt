@@ -1,8 +1,12 @@
 streamlit
-langchain
-openai
-faiss-cpu
 pypdf
-tiktoken
 pdfplumber
+numpy
+faiss-cpu
+tiktoken
 sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+torch
+transformers
